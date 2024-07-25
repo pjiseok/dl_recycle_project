@@ -1,5 +1,7 @@
 kaggle에서 쓰레기데이터 사용</br>
 https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2?select=trash</br>
+</br>
+</br>
 1채널 - 그레이스케일 , 외삽법, sobel, canny</br>
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 1채널학습(그레이스케일) : 그레이스케일 및 데이터 전처리 후 그레이스케일 학습</br>
